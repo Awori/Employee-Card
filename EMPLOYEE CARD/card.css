@@ -1,0 +1,55 @@
+.main{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    margin: auto;
+    border-radius:20px ;
+    
+
+}
+.top{
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    border-radius: 20px 20px 0px 0px;
+}
+.mid{
+    background: black;
+    width: 100px;
+    height: 10px;
+    margin: 30px 0px 0px 100px;
+    float: left;
+    border-radius: 20px;
+
+}
+.main h{
+    color:white ;
+    text-align: center;
+    margin:100px 0px 0px 70px ;
+    font-size:40px ;
+}
+.name{
+    margin: 0px 20px 0px 80px;
+    color: black;
+    font-size: 20px;
+
+}
+.emp{
+    margin: 0px 0px 0px 100px;
+    color: black;
+
+}
+.plac{
+    margin: 70px 20px 100px 90px;
+    color: black;
+}
+.down{
+    background: white;
+}
+.back{
+    
+    margin: 30px 0px 0px 100px;
+}
+.all{
+    background-image: url('viv.jpg');
+}
